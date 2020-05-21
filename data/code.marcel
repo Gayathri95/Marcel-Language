@@ -1,0 +1,7 @@
+main {
+int i = 1 ;
+int n = 10 ;
+while i < n do print(i) ;
+i = i + 1 ;
+breakwhile ;
+} .

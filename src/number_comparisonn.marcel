@@ -1,0 +1,13 @@
+main
+{
+int i = 4 ;
+int r = 5 ;
+int b = 3 ;
+if i >= r then
+print(“greater_than_equal”) ;
+else print(“not_equal”) ;
+breakif ;
+if i <= r then
+print(“less_than_equal”) ;
+else print(“not_equal”) ;
+breakif ; } .

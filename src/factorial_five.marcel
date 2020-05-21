@@ -1,0 +1,11 @@
+main
+{ int fact = 1 ;
+int i = 9 ;
+int n = 1 ;
+for(n range i )
+{
+fact = fact * n ;
+}
+breakfor ;
+print(fact) ;
+} .

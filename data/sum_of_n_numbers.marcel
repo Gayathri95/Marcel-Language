@@ -1,0 +1,10 @@
+main
+{ int i = 10 ;
+int n = 1 ;
+int count = 0 ;
+for ( n range i )
+{ count = count + n ;
+print(count) ;
+}
+breakfor ;
+} .

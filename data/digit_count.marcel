@@ -1,0 +1,9 @@
+main
+{ int n = 60089 ;
+int count = 0 ;
+while n != 0 do
+n = n / 10 ;
+count = count + 1 ;
+breakwhile ;
+print(count) ;
+} .

@@ -1,0 +1,12 @@
+SER 502 Team 10
+Contribution and planned work assignment.
+
+
+All the team members have contributed for the grammar of the language.
+
+The contribution is as follows:
+
+1) Prashant Singh - Worked on Lexical analyser, thus producing input to the parser. Also, worked, majorly in              integration of lexer, parser and evaluator.
+2) Priyanka Zar - Worked on implementing the Parser
+3) Niket Bhave - Colloborated to implement the parser
+4) Gayathri Sitaraman - Worked on Evaluator and also colloborated with Prashant for end to end integration of the project.
